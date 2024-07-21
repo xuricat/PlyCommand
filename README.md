@@ -14,9 +14,9 @@ PlyCommand is an open-source addon (mod) for Garry's Mod that adds a command men
 
 ## Commands File Format
 The `commands.txt` file should contain commands in the following format:
-  command1 option1 "Description for command 1" param1 param2
-  command2 option2 "Description for command 2" param1 param2 param3
-  command3 option3 "Description for command 3" param1
+-  command1 option1 "Description for command 1" param1 param2
+-  command2 option2 "Description for command 2" param1 param2 param3
+-  command3 option3 "Description for command 3" param1
 
 ## Contributing
 If you create a modified version of this mod, please notify the me (Xuricat) and consider adding them to your Steam collection. This will help users easily find and choose the fork that best suits their needs.
